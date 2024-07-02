@@ -1,1 +1,1 @@
-nginx:stable-alpine3.19-slim
+linux/arm64 nginx:stable-alpine3.19
