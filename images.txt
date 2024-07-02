@@ -1,2 +1,2 @@
---platform=linux/arm64
+##--platform=linux/arm64
 nginx:stable-alpine3.19
