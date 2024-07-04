@@ -1,1 +1,1 @@
---platform linux/arm64 nginx:stable-alpine3.19
+rocketmq-dashboard:latest
