@@ -1,1 +1,1 @@
-ghcr.io/heyputer/puter:latest
+jc21/nginx-proxy-manager:latest
