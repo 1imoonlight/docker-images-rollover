@@ -1,1 +1,1 @@
-portainer/portainer-ee:latest
+portainer/portainer-ce:2.20.3
