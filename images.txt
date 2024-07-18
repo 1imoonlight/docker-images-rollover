@@ -1,1 +1,1 @@
-mysql:8.0.38
+portainer/agent:2.20.3
