@@ -1,1 +1,1 @@
-lipengchengdocker/shipping:latest
+lipengchengdocker/shipping:0802
