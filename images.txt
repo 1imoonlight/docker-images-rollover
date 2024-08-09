@@ -1,1 +1,1 @@
- portainer/agent:2.16.2
+ enterprise-search/elastic-connectors:8.14.3.0
