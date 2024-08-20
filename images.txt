@@ -1,1 +1,1 @@
-s-pdf:latest
+frooodle/s-pdf:latest
