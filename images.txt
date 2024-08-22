@@ -1,1 +1,1 @@
-ghcr.io/goauthentik/server:2024.6.3
+ghcr.io/coder/coder:latest
