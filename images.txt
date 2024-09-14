@@ -1,6 +1,1 @@
-langgenius/dify-api:0.7.2
-langgenius/dify-web:0.7.2
-langgenius/dify-sandbox:0.2.6
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
+memcached:latest
