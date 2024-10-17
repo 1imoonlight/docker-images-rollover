@@ -1,1 +1,1 @@
-memcached:latest
+mouday/domain-admin:latest
