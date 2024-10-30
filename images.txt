@@ -1,1 +1,2 @@
-mouday/domain-admin:latest
+diygod/rsshub
+browserless/chrome
