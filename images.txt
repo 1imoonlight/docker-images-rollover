@@ -1,1 +1,1 @@
-memcached:latest
+louislam/uptime-kuma:latest
