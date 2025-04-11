@@ -1,2 +1,1 @@
-python:3.11-slim
-node:20-alpine
+unclecode/crawl4ai:all-amd64
