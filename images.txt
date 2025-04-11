@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server-pro:latest
+unclecode/crawl4ai:all
