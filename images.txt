@@ -1,1 +1,1 @@
-unclecode/crawl4ai:all-amd64
+usual2970/certimate:latest
