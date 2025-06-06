@@ -1,5 +1,2 @@
 usual2970/certimate:latest
-xhofe/alist-aria2:latest
-cloudnas/clouddrive2:latest
-shenxianmq/auto_symlink:latest
-amilys/embyserver:latest
+linuxserver/qbittorrent:latest
