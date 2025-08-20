@@ -1,1 +1,2 @@
 certimate/certimate:latest
+rustdesk/rustdesk-server
