@@ -1,2 +1,1 @@
 lipengchengdocker/misaka_danmu_server:latest
-langgenius/dify-plugin-daemon:0.2.0-local
