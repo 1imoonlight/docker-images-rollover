@@ -1,1 +1,2 @@
 lipengchengdocker/misaka_danmu_server:latest
+irinesistiana/mosdns:latest
