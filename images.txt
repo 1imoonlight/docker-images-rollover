@@ -1,2 +1,3 @@
 lipengchengdocker/misaka_danmu_server:latest
 adguard/adguardhome:latest
+eclipse-mosquitto
