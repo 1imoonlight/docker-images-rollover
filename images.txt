@@ -1,4 +1,4 @@
 l429609201/misaka_danmu_server:latest
 adguard/adguardhome:latest
 certimate/certimate:latest
-emby/embyserver
+jxxghp/moviepilot-v2:latest
