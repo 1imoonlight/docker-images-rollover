@@ -1,3 +1,4 @@
 l429609201/misaka_danmu_server:latest
 adguard/adguardhome:latest
 certimate/certimate:latest
+https://registry-1.docker.io/v2/library/openjdk/manifests/17-jdk-alpine
