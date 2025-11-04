@@ -1,4 +1,4 @@
 l429609201/misaka_danmu_server:latest
 adguard/adguardhome:latest
 certimate/certimate:latest
-openjdk:17-jdk-alpine
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/openjdk:17-jdk-alpine
