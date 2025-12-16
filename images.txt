@@ -7,3 +7,4 @@ xxnuo/mtranserver:latest
 langgenius/dify-api:1.11.1
 langgenius/dify-web:1.11.1
 busybox:latest
+langgenius/dify-plugin-daemon:0.5.1-local
