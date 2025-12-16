@@ -4,3 +4,4 @@ certimate/certimate:latest
 plexinc/pms-docker
 halohub/halo:2.21.10
 xxnuo/mtranserver:latest
+langgenius/dify-api:1.11.1
