@@ -6,3 +6,4 @@ halohub/halo:2.21.10
 xxnuo/mtranserver:latest
 langgenius/dify-api:1.11.1
 langgenius/dify-web:1.11.1
+busybox:latest
