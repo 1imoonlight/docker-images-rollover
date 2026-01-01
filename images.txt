@@ -5,3 +5,4 @@ certimate/certimate:latest
 semitechnologies/weaviate:1.27.0
 halohub/halo:2.21.10
 xxnuo/mtranserver:latest
+aibotk/wechat-assistant:latest
