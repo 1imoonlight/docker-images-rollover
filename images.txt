@@ -7,3 +7,4 @@ halohub/halo:2.21.10
 xxnuo/mtranserver:latest
 aibotk/wechat-assistant:latest
 xmoxmo/gewe:alpine
+louislam/uptime-kuma:latest
