@@ -2,7 +2,5 @@ rustdesk/rustdesk-server:latest
 l429609201/misaka_danmu_server:latest
 adguard/adguardhome:latest
 certimate/certimate:latest
-semitechnologies/weaviate:1.27.0
-halohub/halo:2.21.10
 xxnuo/mtranserver:latest
 louislam/uptime-kuma:latest
