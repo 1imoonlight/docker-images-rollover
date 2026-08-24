@@ -4,3 +4,4 @@ adguard/adguardhome:latest
 certimate/certimate:latest
 xxnuo/mtranserver:latest
 louislam/uptime-kuma:latest
+aiursoft/howtocookviewer:latest
